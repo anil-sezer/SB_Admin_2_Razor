@@ -1,0 +1,1 @@
+namespace SB_Admin_Razor.Constants;public static class UserClaimConsts{    public const string ProfilePicUrl = "urn:google:picture";    public const string Locale = "urn:google:locale";}

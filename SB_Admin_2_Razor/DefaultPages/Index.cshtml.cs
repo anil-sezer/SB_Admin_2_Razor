@@ -1,0 +1,1 @@
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;namespace SB_Admin_Razor.Pages.DefaultPages;public class HomeModel : PageModel{    private readonly ILogger<HomeModel> _logger;    public HomeModel(ILogger<HomeModel> logger)    {        _logger = logger;    }    public void OnGet()    {    }}

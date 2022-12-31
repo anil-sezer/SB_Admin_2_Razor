@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Mvc.RazorPages;namespace SB_Admin_Razor.Pages.Pages;public class NotFound : PageModel{    public void OnGet()    {            }}

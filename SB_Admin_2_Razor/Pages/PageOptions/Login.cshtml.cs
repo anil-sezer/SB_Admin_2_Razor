@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Mvc.RazorPages;namespace SB_Admin_Razor.Pages.Pages;public class Login : PageModel{    public void OnGet()    {            }}

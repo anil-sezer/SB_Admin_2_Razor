@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Mvc.RazorPages;namespace SB_Admin_Razor.Pages.Pages;public class Blank : PageModel{    public void OnGet()    {            }}

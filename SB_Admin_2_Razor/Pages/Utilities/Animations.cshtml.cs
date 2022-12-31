@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Mvc.RazorPages;namespace SB_Admin_Razor.Pages.Utilities;public class Animations : PageModel{    public void OnGet()    {            }}

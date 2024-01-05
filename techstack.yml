@@ -1,7 +1,8 @@
 repo_name: anil-sezer/SB_Admin_2_Razor
 report_id: a27a5568f7662f951d52e085f3898c5a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T12:07:22+00:00'
+timestamp: '2024-01-05T08:48:42+00:00'
 requested_by: anil-sezer
 provider: github
 branch: dev
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -60,7 +65,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -75,7 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -89,7 +94,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -102,6 +107,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -114,6 +120,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -123,6 +130,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -132,6 +140,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -144,6 +153,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor.sln
   detection_source: SB_Admin_2_Razor.sln
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -157,7 +167,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13743/default_4056691b3b7b6737ac5df5ff7e15081a39ed930f.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -171,7 +181,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13053/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -186,7 +196,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14124/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -200,7 +210,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13077/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
@@ -215,7 +225,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
+  detection_source_url: https://github.com/anil-sezer/SB_Admin_2_Razor/blob/dev/SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   detection_source: SB_Admin_2_Razor/SB_Admin_2_Razor.csproj
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z

@@ -2,7 +2,7 @@ repo_name: anil-sezer/SB_Admin_2_Razor
 report_id: a27a5568f7662f951d52e085f3898c5a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:48:42+00:00'
+timestamp: '2024-02-29T18:40:40+00:00'
 requested_by: anil-sezer
 provider: github
 branch: dev
@@ -85,7 +85,7 @@ tools:
   last_updated_by: anil
   last_updated_on: 2022-12-30 13:23:07.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   version: 7.0.1
   license: MIT
